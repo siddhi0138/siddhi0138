@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhi0138&label=Profile%20views&color=0e75b6&style=flat" alt="siddhi0138" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/siddhi_0138" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhi_0138" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/siddhi_0138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhi_0138" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/siddhi_1308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhi_1308" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
