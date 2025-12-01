@@ -1,136 +1,108 @@
-# <p align="center">🌸✨ **Hey, I'm Siddhi Somaiya!** ✨🌸</p>
+<h1 align="center">👋 Hello, I'm <strong>Siddhi Somaiya</strong></h1>
+<h3 align="center">Full Stack Developer | Software Engineer | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450"/>
+  <img src="https://komarev.com/ghpvc/?username=siddhi0138&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Creative+Frontend+Engineer;React+%2B+TypeScript+Crafter;Firebase+%2F+Node+Builder;Delphi+%2F+Oracle+Trainee;Always+Learning+%26+Launching+%F0%9F%9A%80" />
-</p>
+## 📌 Profile Summary
+I am a full-stack developer passionate about building clean, scalable, and secure web applications.  
+I enjoy working across **MERN stack**, **backend engineering**, and **security-oriented development** aligned with real-world software engineering practices.
 
 ---
 
-# <p align="center">💗 Visitor Counter</p>
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=siddhi0138&label=Profile+Visitors&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-## 🌼 About Me
-
-* 💼 Software Development Trainee @ **Zeel Infotech**
-* 🎓 Computer Engineering Student
-* 💛 Passion: **Beautiful UI + clean logic + meaningful apps**
-* 🌍 I create **full-stack web apps**, dashboards, mental-health tools, games & end-to-end project systems
-* ✨ Currently learning advanced **React, TypeScript, system programming & backend design**
+## 🔭 Current Work
+- Building full-stack MERN applications  
+- Designing scalable backend APIs  
+- Improving UI/UX with modern UI patterns  
 
 ---
 
-# <p align="center">💻✨ My Web Applications</p>
-
-Here are all your **web apps**, organized clearly like a digital gallery 🌈
-
----
-
-## 🌸 **🔥 Major Modern Web Apps (React + TS + Firebase + Node)**
-
-### ⭐ **Your Mental Buddy** — Mental Health Web App
-
-A well-designed mental health support app with journaling, mood tracking, guided activities, and user tools.
-
-**Tech:** React, TypeScript, Vite, Tailwind, Firebase, MongoDB, GraphQL
-**Includes:** Assessments • Mood Tracker • Games • Journaling • Community • Therapist Directory
+## 🌱 Currently Learning
+- Cybersecurity fundamentals (OWASP, secure coding)  
+- Distributed systems & system design  
+- Backend architecture & API performance  
 
 ---
 
-### ⭐ **Real-Time Collaborative Code Editor**
-
-A multiplayer, real-time coding environment with themes, chat, tooltips, syntax highlighting & file systems.
-
-**Tech:** React, TypeScript, Node.js, Express.js, Socket.io, Tailwind, Vercel
-
----
-
-## 🌸 **✨ Web App Systems (Full Stack PHP + SQL)**
-
-### 🍽️ **RMOS — Restaurant Menu & Ordering System**
-
-A fully structured multi-user application with roles like customer, waiter, chef, supervisor.
-
-**Features:**
-✔ Menu system
-✔ Real-time order updates
-✔ Invoice & item management
-✔ Dynamic database-linked UI
+## 👯 Collaboration Interests
+- Open-source contributions  
+- Full-stack & backend projects  
+- Developer tooling  
+- Web security projects  
 
 ---
 
-### 🛍️ **Fashion E-Commerce Website (Full Stack)**
-
-A complete shopping website developed with PHP + MySQL.
-
-**Tech:** HTML, CSS, JS, PHP, SQL
-**Features:**
-✔ Shop, Cart, Blog
-✔ Payment UI
-✔ Admin functionality
-✔ Product database
+## 🤝 Seeking Guidance In
+- Distributed system design  
+- Secure API development  
+- Encryption & authorization frameworks  
 
 ---
 
-## 🌸 **🛒 Frontend Web Apps (UI & Experience Focused)**
-
-### 🌼 **VogueBay**
-
-A stylish e-commerce inspired web UI with elegant layouts.
-**Tech:** HTML, CSS, JS
-
----
-
-### 🌼 **EduNest**
-
-A simple, polished educational website UI.
-**Tech:** HTML, CSS
+## 💬 Ask Me About
+- MERN stack development  
+- Secure coding  
+- API & backend structuring  
+- Clean architecture practices  
 
 ---
 
-### 🌼 **Rupei**
-
-A creative, minimal frontend project exploring layout and interaction.
-**Tech:** HTML, CSS, JS
+## 📫 Contact
+📧 Email: **somaiyasddhi@gmail.com**  
+📄 Resume:  
+https://drive.google.com/file/d/166Jn7HU6XZxn0UQd3VCACbFrsR2mcCl0/view
 
 ---
-
-# <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhi0138&show_icons=true&theme=rose_pine" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi0138&layout=compact&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi0138&theme=rose_pine" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhi0138&theme=clean&margin-w=5&no-frame=true" />
 </p>
 
 ---
 
-# <p align="center">🌐 Connect With Me</p>
+## 🛠️ Skills & Technologies
+
+**Frontend:**  
+React • JavaScript • TypeScript • HTML • CSS • Bootstrap • Figma  
+
+**Backend:**  
+Node.js • Express • MongoDB • MySQL • PostgreSQL • Firebase • FastAPI  
+
+**Additional Skills:**  
+Git • Linux • Python • Java • C • MATLAB • NumPy • Pandas  
+Arduino • Blender • Secure Coding Basics  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,postgres,python,java,c,git,github,linux,firebase,figma,bootstrap,arduino,matlab,php,appwrite,vue,blender,framer&perline=12" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhi0138&show_icons=true&theme=transparent" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi0138&theme=transparent" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi0138&layout=compact&theme=transparent" height="150" />
+
+</div>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddhi-somaiya-188440258"><img src="https://img.shields.io/badge/LinkedIn-Siddhi%20Somaiya-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/siddhi0138"><img src="https://img.shields.io/badge/GitHub-siddhi0138-black?style=for-the-badge" /></a>
-  <a href="https://instagram.com/siddhi_0138"><img src="https://img.shields.io/badge/Instagram-@siddhi_0138-fb77c0?style=for-the-badge" /></a>
+  <a href="https://github.com/siddhi0138"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://linkedin.com/in/Siddhi Somaiya"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://instagram.com/siddhi_0138"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://hackerrank.com/somaiyasiddhi"><img src="https://skillicons.dev/icons?i=hackerrank" width="40"/></a>
+  <a href="https://leetcode.com/siddhi_0138"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
 </p>
 
 ---
 
-# <p align="center">🌸 A Tiny Spark About Me</p>
-
-I like to build things that feel alive —
-apps that glow with color, flow with logic,
-and carry a little warmth in every click ✨
-
----
-
+<h3 align="center">Thanks for visiting! Feel free to connect or collaborate.</h3>
